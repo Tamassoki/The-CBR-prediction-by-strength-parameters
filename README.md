@@ -1,1 +1,1 @@
-# The-CBR-prediction-by-strength-parameters
+# The-CBR-prediction-by-the-strength-parameters
